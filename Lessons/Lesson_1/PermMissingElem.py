@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Problem:
-    Missing element in permutation.
+    Lesson 1. PermMissingElem.
 
 In short:
     Find the missing element in a given permutation.

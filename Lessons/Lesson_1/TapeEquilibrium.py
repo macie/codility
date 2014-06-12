@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Problem:
-    Tape Equilibrium.
+    Lesson 1. TapeEquilibrium.
 
 In short:
     Minimize the value

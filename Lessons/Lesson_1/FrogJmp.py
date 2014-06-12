@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Problem:
-    Frog Jumps.
+    Lesson 1. FrogJmp
 
 In short:
     Count minimal number of jumps from position X to Y.
